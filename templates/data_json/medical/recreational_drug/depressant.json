@@ -1,0 +1,33 @@
+{
+  "Dataset": [
+    "alcohol",
+    "alcoholic drinks",
+    "beer",
+    "benzodiazepines",
+    "benzofuran compounds",
+    "benzos",
+    "benzylpiperazine",
+    "bevvy",
+    "booze",
+    "co-codamol",
+    "codeine",
+    "codis500",
+    "diamorphine",
+    "diazepam",
+    "dimethocaine",
+    "downers",
+    "gamma hydroxybutyrate",
+    "ghb",
+    "librium",
+    "paxil",
+    "prozac",
+    "rohypnol",
+    "thorazine",
+    "valium",
+    "wine",
+    "xanax",
+    "gbh",
+    "zoloft"
+  ],
+  "Description": "Dataset for depressant"
+}

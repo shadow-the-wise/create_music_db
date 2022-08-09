@@ -1,0 +1,8 @@
+{
+  "Dataset": [
+    "gliclazide",
+    "insulin",
+    "metformin"
+  ],
+  "Description": "Dataset for antihyperglycemic"
+}

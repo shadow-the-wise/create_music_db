@@ -1,0 +1,16 @@
+{
+  "Dataset": [
+    "belly",
+    "belly-aching",
+    "chewing",
+    "digest",
+    "digestion",
+    "gastric",
+    "nausea",
+    "nauseating",
+    "salvate",
+    "stomach",
+    "tummy"
+  ],
+  "Description": "Dataset for gustatory_location"
+}

@@ -1,0 +1,10 @@
+{
+  "Dataset": [
+    "blackness",
+    "colorlessness",
+    "grayness",
+    "greyness",
+    "pale"
+  ],
+  "Description": "Dataset for visual_color"
+}

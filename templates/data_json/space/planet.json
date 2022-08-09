@@ -1,0 +1,18 @@
+{
+  "Dataset": [
+    "ceres",
+    "earth",
+    "eris",
+    "haumea",
+    "jupiter",
+    "makemake",
+    "mars",
+    "mercury",
+    "neptune",
+    "pluto",
+    "saturn",
+    "uranus",
+    "venus"
+  ],
+  "Description": "Dataset for planet"
+}

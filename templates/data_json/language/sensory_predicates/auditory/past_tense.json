@@ -1,0 +1,17 @@
+{
+  "Dataset": [
+    "asked",
+    "commented",
+    "discussed",
+    "heard",
+    "listened",
+    "remarked",
+    "said",
+    "spoke",
+    "spoken",
+    "talked",
+    "unheard",
+    "voiced"
+  ],
+  "Description": "Dataset for past_tense"
+}

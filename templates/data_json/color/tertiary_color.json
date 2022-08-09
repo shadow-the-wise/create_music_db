@@ -1,0 +1,17 @@
+{
+  "Dataset": [
+    "red-orange",
+    "orangep-red",
+    "yellow-orange",
+    "orange-yellow",
+    "yellow-green",
+    "green-yellow",
+    "blue-green",
+    "green-blue",
+    "blue-violet",
+    "violet-blue",
+    "violet-red",
+    "red-violet"
+  ],
+  "Description": "Dataset for tertiary_color"
+}

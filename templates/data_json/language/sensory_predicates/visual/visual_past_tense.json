@@ -1,0 +1,22 @@
+{
+  "Dataset": [
+    "blinded",
+    "daydreamed",
+    "enlightened",
+    "envisioned",
+    "framed",
+    "imagined",
+    "inspected",
+    "looked",
+    "observed",
+    "oversaw",
+    "reawakened",
+    "scanned",
+    "showed",
+    "sighted",
+    "viewed",
+    "visualised",
+    "watched"
+  ],
+  "Description": "Dataset for visual_past_tense"
+}

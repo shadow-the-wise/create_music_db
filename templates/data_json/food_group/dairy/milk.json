@@ -1,0 +1,10 @@
+{
+  "Dataset": [
+    "fat free milk",
+    "low fat milk",
+    "milk",
+    "reduced fat milk",
+    "whole milk"
+  ],
+  "Description": "Dataset for milk"
+}

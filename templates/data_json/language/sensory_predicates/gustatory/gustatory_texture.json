@@ -1,0 +1,15 @@
+{
+  "Dataset": [
+    "glazed",
+    "gooey",
+    "crumbly",
+    "crispy",
+    "mashed",
+    "moist",
+    "mushy",
+    "seared",
+    "stringy",
+    "velvety"
+  ],
+  "Description": "Dataset for gustatory_texture"
+}

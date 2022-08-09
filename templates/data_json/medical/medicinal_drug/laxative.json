@@ -1,0 +1,13 @@
+{
+  "Dataset": [
+    "lactulose",
+    "senna",
+    "movicol",
+    "sodium docusate",
+    "bisacodyl",
+    "phosphate enema",
+    "microlax enema",
+    "glycerine suppositories"
+  ],
+  "Description": "Dataset for laxative"
+}

@@ -1,0 +1,11 @@
+{
+  "Dataset": [
+    "sun",
+    "sirius",
+    "sirius a",
+    "sirius b",
+    "polaris",
+    "north sar"
+  ],
+  "Description": "Dataset for bright_star"
+}

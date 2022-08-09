@@ -1,0 +1,21 @@
+{
+  "Dataset": [
+    "anthony joshua",
+    "chris eubank",
+    "floyd mayweather",
+    "frank bruno",
+    "james buster dougas",
+    "joe kawasaki",
+    "larry holmes",
+    "lennox lewis",
+    "manny pacquiao",
+    "mike tyson",
+    "muhammad ali",
+    "nigel benn",
+    "oscar de la hoya",
+    "prince naseem",
+    "ricky hatton",
+    "sugar ray robinson"
+  ],
+  "Description": "Dataset for boxer"
+}

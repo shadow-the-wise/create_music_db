@@ -1,0 +1,15 @@
+{
+  "Dataset": [
+    "anything",
+    "anybody",
+    "anyone",
+    "something",
+    "somebody",
+    "someone",
+    "nothing",
+    "nobody",
+    "none",
+    "no one"
+  ],
+  "Description": "Dataset for indefinite"
+}

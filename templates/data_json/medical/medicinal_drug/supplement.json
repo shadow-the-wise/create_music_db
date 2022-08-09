@@ -1,0 +1,21 @@
+{
+  "Dataset": [
+    "adcal",
+    "alendronic acid",
+    "calcichew",
+    "cholecalciferol",
+    "creatine",
+    "ferrous fumarate",
+    "ferrous sulphate",
+    "folic acid",
+    "levothyroxine",
+    "multivitamins",
+    "protein powder",
+    "quinine",
+    "sandoz-k",
+    "sandoz-phosphate",
+    "slow sodium",
+    "thiamine"
+  ],
+  "Description": "Dataset for supplement"
+}

@@ -1,0 +1,22 @@
+{
+  "Dataset": [
+    "acoustic guitar",
+    "banjo",
+    "bass guitar",
+    "bassoon",
+    "cello",
+    "double bass",
+    "electric guitar",
+    "fiddle",
+    "guitar",
+    "harp",
+    "lute",
+    "lyre",
+    "mandolin",
+    "piccolo",
+    "ukulele",
+    "viola",
+    "violin"
+  ],
+  "Description": "Dataset for string_instrument"
+}

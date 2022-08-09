@@ -1,0 +1,15 @@
+{
+  "Dataset": [
+    "birthday",
+    "birthdays",
+    "engaged",
+    "engagement",
+    "funeral",
+    "funerals",
+    "marriage",
+    "wedding",
+    "weddings",
+    "wedlock"
+  ],
+  "Description": "Dataset for family_event"
+}

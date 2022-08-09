@@ -1,0 +1,15 @@
+{
+  "Dataset": [
+    "amlodipine",
+    "atenolol",
+    "bisoprolol",
+    "candesartan",
+    "diltiazem",
+    "doxazosin",
+    "lisinopril",
+    "losartan",
+    "nifedipine",
+    "ramipril"
+  ],
+  "Description": "Dataset for antihypertensives"
+}

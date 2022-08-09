@@ -1,0 +1,15 @@
+{
+  "Dataset": [
+    "chicken breast",
+    "chicken drumstick",
+    "chicken gizzards",
+    "chicken heart",
+    "chicken leg",
+    "chicken liver",
+    "chicken neck",
+    "chicken thigh",
+    "chicken wing",
+    "whole chicken"
+  ],
+  "Description": "Dataset for chicken"
+}

@@ -1,0 +1,14 @@
+{
+  "Dataset": [
+    "egomania",
+    "hypermania",
+    "kleptomania",
+    "mania",
+    "necromania",
+    "nymphomania",
+    "pyromania",
+    "kleptomania",
+    "pyromania"
+  ],
+  "Description": "Dataset for mania"
+}

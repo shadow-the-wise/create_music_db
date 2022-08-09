@@ -1,0 +1,16 @@
+{
+  "Dataset": [
+    "zeus",
+    "poseidon",
+    "ares",
+    "apollo",
+    "artemis",
+    "hephaestus",
+    "hermes",
+    "dionysus",
+    "hades",
+    "hypnos",
+    "cronus"
+  ],
+  "Description": "Dataset for greek_god"
+}

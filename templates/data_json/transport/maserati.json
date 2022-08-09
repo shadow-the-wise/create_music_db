@@ -1,0 +1,30 @@
+{
+  "Dataset": [
+    "maserati 300s",
+    "maserati 3200 gt",
+    "maserati 3500 gt",
+    "maserati 5000 gt",
+    "maserati a6g 2000 pinin farina",
+    "maserati a6g/54 gransport frua spyder",
+    "maserati a6g/54 zagato",
+    "maserati a6gcs berlinetta",
+    "maserati a6gcs monofaro",
+    "maserati bora",
+    "maserati ghibli",
+    "maserati grancabrio",
+    "maserati gransport",
+    "maserati granturismo",
+    "maserati indy",
+    "maserati khamsin",
+    "maserati mc12",
+    "maserati mc20 cielo",
+    "maserati mc20 gt2",
+    "maserati mc20",
+    "maserati merak",
+    "maserati mistral",
+    "maserati sebring",
+    "maserati shamal",
+    "maserati tipo 60/61"
+  ],
+  "Description": "Dataset for maserati"
+}

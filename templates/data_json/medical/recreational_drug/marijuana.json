@@ -1,0 +1,13 @@
+{
+  "Dataset": [
+    "cannabis",
+    "hash",
+    "hashish",
+    "herb",
+    "marijuana",
+    "resin",
+    "sweet mary jane",
+    "weed"
+  ],
+  "Description": "Dataset for marijuana"
+}

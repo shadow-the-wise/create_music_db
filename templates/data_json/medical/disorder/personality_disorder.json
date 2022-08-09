@@ -1,0 +1,19 @@
+{
+  "Dataset": [
+    "aspd",
+    "antisocial personality disorder",
+    "avoidant personality disorder",
+    "bpd",
+    "borderline personality disorder",
+    "dependent personality disorder",
+    "histrionic personality disorder",
+    "narcissistic personality disorder",
+    "ocpd",
+    "obsessive compulsive personality disorder",
+    "obsessive-compulsive personality disorder",
+    "paranoid personality disorder",
+    "schizoid personality disorder",
+    "schizotypal personality disorder"
+  ],
+  "Description": "Dataset for personality_disorder"
+}

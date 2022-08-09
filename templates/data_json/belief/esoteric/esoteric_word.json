@@ -1,0 +1,29 @@
+{
+  "Dataset": [
+    "alchemical",
+    "alchemy",
+    "allegorical",
+    "allegory",
+    "arcane",
+    "celestial",
+    "chakras",
+    "cult",
+    "cultic",
+    "curse",
+    "cursed",
+    "ethos",
+    "illuminati",
+    "logos",
+    "mantra",
+    "mystic",
+    "mystical",
+    "mysticism",
+    "necromancy",
+    "pathos",
+    "spell",
+    "supernatural",
+    "transfiguration",
+    "transubstantiation"
+  ],
+  "Description": "Dataset for esoteric_word"
+}

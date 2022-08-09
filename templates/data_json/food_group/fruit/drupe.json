@@ -1,0 +1,26 @@
+{
+  "Dataset": [
+    "apricot",
+    "apricots",
+    "avocado",
+    "cherry",
+    "durian",
+    "feijoa",
+    "honeydew",
+    "nectarines",
+    "peaches",
+    "plum",
+    "pomelo",
+    "purple mangosteen",
+    "quince",
+    "raisin",
+    "rambutan",
+    "satsuma",
+    "strawberry",
+    "tamarillo",
+    "tangerine",
+    "tomato",
+    "ugli fruit"
+  ],
+  "Description": "Dataset for drupe"
+}

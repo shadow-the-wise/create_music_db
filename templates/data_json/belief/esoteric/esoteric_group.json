@@ -1,0 +1,23 @@
+{
+  "Dataset": [
+    "kabbalah",
+    "manichaeism",
+    "marcionism",
+    "monarchianism",
+    "masonic",
+    "mani gnosticism",
+    "gnostic",
+    "hermetic order of the golden dawn",
+    "hermetic",
+    "knights hospitaller",
+    "knights templar",
+    "masonic",
+    "pagan",
+    "rosicrucian",
+    "satanic",
+    "setian",
+    "theosophists",
+    "wiccan"
+  ],
+  "Description": "Dataset for esoteric_group"
+}

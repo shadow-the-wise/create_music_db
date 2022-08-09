@@ -1,0 +1,28 @@
+{
+  "Dataset": [
+    "artichoke",
+    "asparagus",
+    "aubergine",
+    "bok choy",
+    "broccoflower",
+    "broccoli",
+    "brussels sprout",
+    "cabbage",
+    "cauliflower",
+    "choy sum",
+    "courgette",
+    "cucumber",
+    "eggplant",
+    "leek",
+    "lettuce",
+    "new zealand spinach",
+    "parsley",
+    "radish",
+    "rutabaga",
+    "spinach",
+    "squash",
+    "wasabi",
+    "water cress"
+  ],
+  "Description": "Dataset for cruciferou"
+}

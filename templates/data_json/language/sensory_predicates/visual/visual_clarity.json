@@ -1,0 +1,23 @@
+{
+  "Dataset": [
+    "clear",
+    "clearness",
+    "cloudiness",
+    "cloudy",
+    "distort",
+    "distorted",
+    "blurred",
+    "blurry",
+    "blurrier",
+    "fade",
+    "fog",
+    "foggy",
+    "fogginess",
+    "lucent",
+    "lucid",
+    "lucidity",
+    "lucidness",
+    "murky"
+  ],
+  "Description": "Dataset for visual_clarity"
+}

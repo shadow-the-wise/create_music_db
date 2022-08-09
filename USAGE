@@ -1,0 +1,51 @@
+Description:
+    The Generator builds Models from datasets.
+
+    The Datasets are added to lib/data
+    The Models are generated.
+    The Dataset information is added to the Models.
+
+    The DATASET
+    ---------------------------------------------------------------------------
+    Adding to the dataset is simple. Just drop the custom file or directory in
+    the lib/data/topic Directory. The Directory structure is important. The
+    parent Directory and file represent the class. Example:
+
+    Topic/Sport/football_player.json
+
+    Means the Class will be Sport(parent) => FootballPlayer(filename)
+
+    The label Key is always set. And provides an additional Class layer.
+
+    topic/sport/football/football_player
+
+    Sport(label) => Football(parent directory) => FootballPlayer(filename)
+
+    If there is no need for an additional layer this can be set to Topic or the
+    same name as the parent directory.
+
+    THE MODEL
+    ---------------------------------------------------------------------------
+    Build the main sets first. Any new entries you create can be re-ran. The
+    pre existing data will be skipped.
+
+    BUILDING THE DATASET
+    ---------------------------------------------------------------------------
+    The File must be named in Snake Case. Each dataset must consist of two Keys.
+
+    1. One Key must be the name of the File and represent the DATASET. In Camel
+       Case. Its Value must be an Array. This will consist of words associated
+       to the Key. The singular MUST be used. Footballer not Footballers
+    2. The second Key must be named Label. And be a identifier of a larger
+       group.
+
+    NOTE:
+    ---------------------------------------------------------------------------
+    If the dataset is stopped while being added to the model. There will be a
+    error printed to the screen. Fix the problem. Most likely a Label issue and
+    re run the 'rake db:seed'.
+
+Example:
+    File: football_player.json
+    Key: FootballPlayer
+    Key: Label

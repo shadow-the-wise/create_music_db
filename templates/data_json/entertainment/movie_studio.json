@@ -1,0 +1,33 @@
+{
+  "Dataset": [
+    "all-star pictures",
+    "allied artists pictures and monogram pictures",
+    "anchor bay entertainment",
+    "colordance pictures",
+    "dino de laurentiis company",
+    "filmworks entertainment",
+    "halestorm entertainment",
+    "imagine entertainment",
+    "lions gate entertainment",
+    "magnolia pictures",
+    "momentum pictures",
+    "moviehouse entertainment",
+    "palm pictures",
+    "paramount pictures",
+    "regent entertainment",
+    "rogue pictures",
+    "showcase entertainment",
+    "sony pictures classics",
+    "sony pictures",
+    "spyglass entertainment",
+    "summit entertainment",
+    "telling pictures",
+    "the jim henson company",
+    "the weinstein company",
+    "touchstone pictures",
+    "united international pictures",
+    "universal pictures",
+    "walt disney pictures"
+  ],
+  "Description": "Dataset for movie_studio"
+}

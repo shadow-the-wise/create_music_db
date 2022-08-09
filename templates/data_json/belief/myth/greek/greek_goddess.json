@@ -1,0 +1,13 @@
+{
+  "Dataset": [
+    "aphrodite",
+    "athena",
+    "demeter",
+    "hecate",
+    "hera",
+    "iris",
+    "persephany",
+    "rhea"
+  ],
+  "Description": "Dataset for greek_goddess"
+}

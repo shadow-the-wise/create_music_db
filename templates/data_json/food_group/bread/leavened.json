@@ -1,0 +1,27 @@
+{
+  "Dataset": [
+    "carrot bread",
+    "challah",
+    "chickpea bread",
+    "marraqueta",
+    "miche",
+    "michetta",
+    "milk bread",
+    "milk loaf",
+    "milk roll",
+    "panbrioche",
+    "pane di altamura",
+    "pane ticinese",
+    "panfocaccia",
+    "peg bread",
+    "pistolet",
+    "pizza bread",
+    "potato bread",
+    "potbrood",
+    "quick bread",
+    "salt-rising bread",
+    "vienna bread",
+    "whole wheat bread"
+  ],
+  "Description": "Dataset for leavened"
+}

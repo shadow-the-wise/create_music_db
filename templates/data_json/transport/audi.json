@@ -1,0 +1,27 @@
+{
+  "Dataset": [
+    "audi e-tron gt",
+    "audi quattro",
+    "audi r8 gt",
+    "audi r8 lms gt4",
+    "audi r8 lms ultra",
+    "audi r8 v10 rms",
+    "audi r8",
+    "audi rs2 avant",
+    "audi rs3",
+    "audi rs4",
+    "audi rs5 sportback",
+    "audi rs5",
+    "audi rs6",
+    "audi rs7 sportback",
+    "audi s2",
+    "audi s3",
+    "audi s4",
+    "audi s5",
+    "audi s6",
+    "audi s7 sportback",
+    "audi tt rs",
+    "audi tt"
+  ],
+  "Description": "Dataset for audi"
+}

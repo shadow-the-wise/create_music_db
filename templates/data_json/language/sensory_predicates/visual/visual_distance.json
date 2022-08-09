@@ -1,0 +1,19 @@
+{
+  "Dataset": [
+    "deep",
+    "deep-insight",
+    "far",
+    "far-seeing",
+    "far-sighted",
+    "farness",
+    "field-of-view",
+    "foreseeability",
+    "foreseeing",
+    "foresight",
+    "foresightedness",
+    "hindsight",
+    "long-sighted",
+    "view-of-things"
+  ],
+  "Description": "Dataset for visual_distance"
+}

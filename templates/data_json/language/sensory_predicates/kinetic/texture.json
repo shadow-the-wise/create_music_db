@@ -1,0 +1,17 @@
+{
+  "Dataset": [
+    "abrasive",
+    "hardened",
+    "ruffled",
+    "barbed",
+    "blemished",
+    "bristly",
+    "bubbly",
+    "bumpy",
+    "bushy",
+    "coarse",
+    "drenched",
+    "hardened"
+  ],
+  "Description": "Dataset for texture"
+}

@@ -1,0 +1,25 @@
+{
+  "Dataset": [
+    "anadama bread",
+    "bagel",
+    "barm cake",
+    "brioche",
+    "cottage loaf",
+    "cuban bread",
+    "english muffin",
+    "focaccia",
+    "french bread",
+    "french stick",
+    "hard dough bread",
+    "hot and spicy cheese bread",
+    "italian stick",
+    "lye roll",
+    "montreal-style bagel",
+    "pancarré",
+    "pandoro",
+    "pretzel",
+    "spelt bread",
+    "texas toast"
+  ],
+  "Description": "Dataset for yeast_bread"
+}

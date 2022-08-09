@@ -1,0 +1,12 @@
+{
+  "Dataset": [
+    "black bread",
+    "brown bread",
+    "flatkaka",
+    "pumpernickel",
+    "rieska",
+    "rye bread",
+    "röggelchen"
+  ],
+  "Description": "Dataset for rye_bread"
+}

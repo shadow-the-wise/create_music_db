@@ -1,0 +1,32 @@
+{
+  "Dataset": [
+    "aunt",
+    "bro",
+    "brother",
+    "cousin",
+    "dad",
+    "daughter",
+    "father",
+    "gran",
+    "grandad",
+    "grandmother",
+    "grandpops",
+    "granfather",
+    "granny",
+    "husband",
+    "mother",
+    "mum",
+    "nemar",
+    "nephew",
+    "parent",
+    "parents",
+    "progenitor",
+    "progeny",
+    "sis",
+    "sister",
+    "son",
+    "uncle",
+    "wife"
+  ],
+  "Description": "Dataset for immediate"
+}

@@ -1,0 +1,28 @@
+{
+  "Dataset": [
+    "blistered",
+    "boiling",
+    "burning-up",
+    "cold",
+    "colder",
+    "coldness",
+    "cool",
+    "cooler",
+    "fevered",
+    "freezing",
+    "frozen",
+    "heat",
+    "heated",
+    "heating",
+    "hot",
+    "hotness",
+    "hotswap",
+    "hotten",
+    "hotter",
+    "hotters",
+    "humid",
+    "icy",
+    "lukewarm"
+  ],
+  "Description": "Dataset for temperature"
+}

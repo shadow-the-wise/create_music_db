@@ -1,0 +1,9 @@
+{
+  "Dataset": [
+    "spring",
+    "summer",
+    "autum",
+    "winter"
+  ],
+  "Description": "Dataset for season"
+}

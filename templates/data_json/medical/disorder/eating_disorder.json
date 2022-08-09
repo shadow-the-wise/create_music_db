@@ -1,0 +1,14 @@
+{
+  "Dataset": [
+    "anorexia",
+    "anorexia nervosa",
+    "binge eating",
+    "binge eating disorder",
+    "binge-eating disorder",
+    "bulimia nervosa",
+    "eating disorders",
+    "orthorexia",
+    "rumination disorder"
+  ],
+  "Description": "Dataset for eating_disorder"
+}

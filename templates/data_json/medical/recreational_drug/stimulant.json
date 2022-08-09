@@ -1,0 +1,21 @@
+{
+  "Dataset": [
+    "alpha-methyltryptamine",
+    "amphetamine sulphate",
+    "amphetamine",
+    "amyls",
+    "angel dust",
+    "chang",
+    "cocaine",
+    "crack",
+    "crystal meth",
+    "dimethocaine",
+    "fake cocaine",
+    "flake",
+    "freebase",
+    "pcp",
+    "peruvian marching poweder",
+    "sniff"
+  ],
+  "Description": "Dataset for stimulant"
+}

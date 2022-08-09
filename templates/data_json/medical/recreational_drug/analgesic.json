@@ -1,0 +1,33 @@
+{
+  "Dataset": [
+    "benzodiazepines",
+    "benzofuran compounds",
+    "benzos",
+    "benzylpiperazine",
+    "co-codamol",
+    "codeine",
+    "codis500",
+    "diamorphine",
+    "diazepam",
+    "fenazepam",
+    "heroin",
+    "m-cat",
+    "m-smack",
+    "meph",
+    "mephedrone",
+    "meth",
+    "methadone",
+    "methamphetamine",
+    "morphine",
+    "opiate",
+    "opioid painkillers",
+    "skag",
+    "smack",
+    "temazepam",
+    "tramadol",
+    "tramal",
+    "valium",
+    "xanax"
+  ],
+  "Description": "Dataset for analgesic"
+}

@@ -1,0 +1,28 @@
+{
+  "Dataset": [
+    "bugatti type 13",
+    "bugatti type 18",
+    "bugatti type 55",
+    "bugatti type 57sc gangloff atalante",
+    "bugatti type 252",
+    "bugatti eb110 gt",
+    "bugatti eb110 supersport",
+    "bugatti eb 112",
+    "bugatti centodieci",
+    "bugatti galibier",
+    "bugatti 16c galibier",
+    "bugatti veyron",
+    "bugatti veyron eb 16.4",
+    "bugatti veyron grand sport",
+    "bugatti veyron supersport",
+    "bugatti veyron vitesse",
+    "bugatti chiron",
+    "bugatti chiron sport",
+    "bugatti chiron pur sport",
+    "bugatti chiron super sport",
+    "bugatti divo",
+    "bugatti la voiture noire",
+    "bugatti bolide"
+  ],
+  "Description": "Dataset for bugatti"
+}

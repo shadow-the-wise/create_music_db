@@ -1,0 +1,13 @@
+{
+  "Dataset": [
+    "brother in law",
+    "brother inlaw",
+    "father in law",
+    "father inlaw",
+    "mother in law",
+    "mother inlaw",
+    "sister in law",
+    "sister inlaw"
+  ],
+  "Description": "Dataset for in_law"
+}

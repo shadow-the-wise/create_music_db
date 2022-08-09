@@ -1,0 +1,13 @@
+{
+  "Dataset": [
+    "mine",
+    "yours",
+    "his",
+    "hers",
+    "its*",
+    "ours",
+    "theirs",
+    "one's"
+  ],
+  "Description": "Dataset for possessive_pronoun"
+}

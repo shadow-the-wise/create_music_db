@@ -1,0 +1,27 @@
+{
+  "Dataset": [
+    "ballot",
+    "campaign",
+    "candidate",
+    "canvass",
+    "coalition",
+    "congress",
+    "congressional",
+    "election",
+    "electoral",
+    "electorate",
+    "exit-poll",
+    "midterm",
+    "nominate",
+    "nominee",
+    "petition",
+    "poll",
+    "polling place",
+    "pollster",
+    "propaganda",
+    "re-election",
+    "slogan",
+    "voter"
+  ],
+  "Description": "Dataset for political_campaigne"
+}

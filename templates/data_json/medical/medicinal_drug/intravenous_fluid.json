@@ -1,0 +1,11 @@
+{
+  "Dataset": [
+    "geloplasm",
+    "glucose",
+    "hartmann’s solution",
+    "normal saline",
+    "plasmalyte",
+    "saline"
+  ],
+  "Description": "Dataset for intravenous_fluid"
+}

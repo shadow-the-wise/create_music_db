@@ -1,0 +1,13 @@
+{
+  "Dataset": [
+    "baldr",
+    "freyr",
+    "höðr",
+    "loki",
+    "odin",
+    "thor",
+    "woden",
+    "wotan"
+  ],
+  "Description": "Dataset for norse_god"
+}

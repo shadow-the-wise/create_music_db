@@ -1,0 +1,21 @@
+{
+  "Dataset": [
+    "andy warhol",
+    "caravaggio",
+    "claude monet",
+    "francis bacon",
+    "francisco de goya",
+    "francisco zurbaran",
+    "jackson pollock",
+    "jacopo carucci",
+    "leonardo da vinci",
+    "michelangelo",
+    "nicolas poussin",
+    "pablo picasso",
+    "raphael",
+    "rembrandt van rijn",
+    "salvador dali",
+    "vincent van gogh"
+  ],
+  "Description": "Dataset for painter"
+}
